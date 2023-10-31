@@ -1,0 +1,8 @@
+input, button{
+display: block;
+margin: 4px;
+}
+
+button{
+    background-color: #2ecc71;
+}
